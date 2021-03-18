@@ -14,7 +14,7 @@
     "eslint": "^7.21.0"
   },
   "scripts": {
-    "start": "node -r esm src",
+    "start": "node -r esm src", 
     "start:dev": "nodemon --watch src/ -r esm src/index.js"
   }
 }
