@@ -5,7 +5,8 @@ react nodejs blog
 
 책: 리액트를 다루는 기술 
 
-![image](https://user-images.githubusercontent.com/28840215/111574948-c7dd4500-87f0-11eb-8a29-1e5f04360892.png)
+![image](https://user-images.githubusercontent.com/28840215/111574982-d9bee800-87f0-11eb-9601-f5883db824bb.png)
+
 
 
 
