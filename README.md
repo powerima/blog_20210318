@@ -3,6 +3,10 @@ react nodejs blog
 
 
 
+책: 리액트를 다루는 기술 
+
+![image](https://user-images.githubusercontent.com/28840215/111574852-9c5a5a80-87f0-11eb-9a15-b28f67f038af.png)
+
 
 
 
