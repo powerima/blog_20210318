@@ -15,6 +15,16 @@ react nodejs blog
 
 
 
+
+
+
+-read
+
+![image](https://user-images.githubusercontent.com/28840215/111573467-f3126500-87ed-11eb-8774-fd95c460478d.png)
+
+
+
+
 -delete
 
 ![image](https://user-images.githubusercontent.com/28840215/111573235-797a7700-87ed-11eb-8d2e-f1c083e6b7cf.png)
